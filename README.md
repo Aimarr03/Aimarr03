@@ -1,4 +1,13 @@
 ## Hi there 👋
+Hello, my name is Andy Aimar Rasyeed. I'd prefer to be called Aimar for casual conversation, could be used in formal situation. However, if you want to address me more formal, you can address me as Andy as it is my family name. Anyway.. Welcome. Welcome to my Github Page, I am going to use my Github as my main portfolio page. I am still working on displaying my portfolio in the best possible I could envision. Bit of rambling but for me, learning slowly and use my brain instead of insta-gratification from AI is much probable as it give me pride on things I develop and my head feel 'freshened'? as it does exercise my brain and doing exercise giving that good pain and relief.
+
+## So What do I do?
+I am a game developer, focusing on programming using C# and Unity. Currently I'm deepening and widening my set of skill in scripting game development. Besides programming, I also learning the native tools of Unity such as Shader Graph, Animation, and Rendering. Speaking of tools, I also integrate tools and extension for better development like Google Play.
+My favorite part on game development is making each of entity communicate each other and design the hierarchy for those entity. I don't make a document for system I create and design. My style on developing is think-and-go, a practical approach which I can't really say it is the best practice.
+So right now, what I am focusing on is improving on these skills first:
+- Create a robust, modular, and scalable system
+- Create a stunning visual through Shader Graph, Rendering Pipeline, etc.
+- Fuel my inner self of wanting and desire more, opeing my creativity to soar again
 
 <!--
 **Aimarr03/Aimarr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
