@@ -9,6 +9,9 @@ So right now, what I am focusing on is improving on these skills first:
 - Create a stunning visual through Shader Graph, Rendering Pipeline, etc.
 - Fuel my inner self of wanting and desire more, opeing my creativity to soar again
 
+
+<h2 align = "center"> Game's I have been working on </h2>
+
 <table align ="center">
   <tr>
     <td align="center" width="50%">
