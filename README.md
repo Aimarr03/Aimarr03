@@ -49,7 +49,7 @@ Additional skill
       <strong>Tug To Lift</strong><br/>
       <a href="https://play.google.com/store/apps/details?id=com.NightliteStudio.TugToLift&hl=id" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-      </a>
+      </a><br>
       A button mashing game to move lift and transport people in medieval era
     </td>
   </tr>
