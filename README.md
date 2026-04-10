@@ -12,8 +12,8 @@ Gaming has been a core memory within me and having the opportunity to develop th
 
 ## So What do I do?
 I do programming and designing in game development projects. My past experience focus on programming, but I have expand my skill in designing games as well. I use Unity in game development.
-<br>
-Additional skill
+<br><br>
+Additional skill:
 - Experience in using Shader Graph
 - Tweening for smooth UI transition
 - Create mobile game and release in Play Store
