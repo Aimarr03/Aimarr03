@@ -38,7 +38,7 @@ Additional skill
               <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
             </a>
             <br>
-            Current build version
+            Newest version
           </td>
         </tr>
       </table>
