@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, my name is Andy Aimar Rasyeed. I'd prefer to be called Aimar for casual conversation, could be used in formal situation. However, if you want to address me more formal, you can address me as Andy as it is my family name. Anyway.. Welcome. Welcome to my Github Page, I am going to use my Github as my main portfolio page. I am still working on displaying my portfolio in the best possible I could envision. Bit of rambling but for me, learning slowly and use my brain instead of insta-gratification from AI is much probable as it give me pride on things I develop and my head feel 'freshened'? as it does exercise my brain and doing exercise giving that good pain and relief.
+Gaming has been a core memory within me and having the opportunity to develop them, I have taken an interest to become one who able to develop one
 <h3>You can find me in these sites as well:</h3>
 <p align="left">
   <a href="https://desyare-game.itch.io/" target="_blank">
@@ -11,16 +11,47 @@ Hello, my name is Andy Aimar Rasyeed. I'd prefer to be called Aimar for casual c
 </p>
 
 ## So What do I do?
-I am a game developer, focusing on programming using C# and Unity. Currently I'm deepening and widening my set of skill in scripting game development. Besides programming, I also learning the native tools of Unity such as Shader Graph, Animation, and Rendering. Speaking of tools, I also integrate tools and extension for better development like Google Play.
-My favorite part on game development is making each of entity communicate each other and design the hierarchy for those entity. I don't make a document for system I create and design. My style on developing is think-and-go, a practical approach which I can't really say it is the best practice.
+I do programming and designing in game development projects. My past experience focus on programming, but I have expand my skill in designing games as well. I use Unity in game development.
 <br>
-So right now, what I am focusing on is improving on these skills first:
-- Create a robust, modular, and scalable system
-- Create a stunning visual through Shader Graph, Rendering Pipeline, etc.
-- Fuel my inner self of wanting and desire more, opeing my creativity to soar again
+Additional skill
+- Experience in using Shader Graph
+- Tweening for smooth UI transition
+- Create mobile game and release in Play Store
 <br><br><br><br>
 <h2 align = "center" margin="0px 30px"> Game's I have worked on </h2>
 <table align ="center" width = "100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Aimarr03/Aimarr03/main/Game%20Screenshot/WAGE/WAGE_03.png" width="100%" /><br/>
+      <strong>Warnet Adventure G Experience (WAGE)</strong><br/>
+      <table align="center" width="75%">
+        <tr>
+          <td align="center" width="50%">
+            Game Jam Version
+            <a href="https://nightlite-studio.itch.io/wage" target="_blank">
+              <img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white" style="vertical-align: middle;"/>
+            </a>
+          </td>
+          <td align="center" width="50%">
+            Current build version
+            <a href="https://drive.google.com/file/d/1741Y6KjRKK6JuvGAoO5Te5fUgIPrM5oj/view?usp=sharing" target="_blank">
+              <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-Open-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>style="vertical-align: middle;"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+      <br>
+      Arcade game where player manage a chaotic environemnet in internet cafe's 
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Aimarr03/Aimarr03/main/Game%20Screenshot/Tug%20To%20Lift/TtL_03.png" width="100%" margin-bottom="10px"/><br/
+      <strong>Tug To Lift</strong><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.NightliteStudio.TugToLift&hl=id" target="_blank">
+        <img alt="Play Store" src="https://img.shields.io/badge/Play%20Store-Download-green?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a><br>
+      A button mashing game to move lift and transport people in medieval era
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Aimarr03/Aimarr03/main/Game%20Screenshot/Empire's%20Last%20Stand/ELS_02.png" width="100%" /><br/>
@@ -40,6 +71,7 @@ So right now, what I am focusing on is improving on these skills first:
     </td>
   </tr>
 </table>
+
 <!--
 **Aimarr03/Aimarr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
