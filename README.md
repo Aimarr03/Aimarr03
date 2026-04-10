@@ -27,16 +27,18 @@ Additional skill
       <table align="center" width="50%">
         <tr>
           <td align="center" width="25%">
-            Game Jam Version
             <a href="https://nightlite-studio.itch.io/wage" target="_blank">
               <img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white" style="vertical-align: middle;"/>
             </a>
+            <br>
+            Game Jam Version
           </td>
           <td align="center" width="25%">
-            Current build version
             <a href="https://drive.google.com/file/d/1741Y6KjRKK6JuvGAoO5Te5fUgIPrM5oj/view?usp=sharing" target="_blank">
               <img alt="Download on Google Drive" src="https://img.shields.io/badge/Download-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
             </a>
+            <br>
+            Current build version
           </td>
         </tr>
       </table>
