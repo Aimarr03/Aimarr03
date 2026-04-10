@@ -24,16 +24,16 @@ Additional skill
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/Aimarr03/Aimarr03/main/Game%20Screenshot/WAGE/WAGE_03.png" width="100%" /><br/>
       <strong>Warnet Adventure G Experience (WAGE)</strong><br/>
-      <table align="center" width="50%">
+      <table align="center" width="75%">
         <tr>
-          <td align="center" width="25%">
+          <td align="center" width="37%">
             <a href="https://nightlite-studio.itch.io/wage" target="_blank">
               <img alt="itch.io" src="https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white" style="vertical-align: middle;"/>
             </a>
             <br>
             Game Jam Version
           </td>
-          <td align="center" width="25%">
+          <td align="center" width="37%">
             <a href="https://drive.google.com/file/d/1741Y6KjRKK6JuvGAoO5Te5fUgIPrM5oj/view?usp=sharing" target="_blank">
               <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
             </a>
