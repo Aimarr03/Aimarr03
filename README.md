@@ -35,7 +35,7 @@ Additional skill
           <td align="center" width="25%">
             Current build version
             <a href="https://drive.google.com/file/d/1741Y6KjRKK6JuvGAoO5Te5fUgIPrM5oj/view?usp=sharing" target="_blank">
-              <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-Open-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>style="vertical-align: middle;"/>
+              <img alt="Download on Google Drive" src="https://img.shields.io/badge/Download-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
             </a>
           </td>
         </tr>
@@ -44,10 +44,10 @@ Additional skill
       Arcade game where player manage a chaotic environemnet in internet cafe's 
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Aimarr03/Aimarr03/main/Game%20Screenshot/Tug%20To%20Lift/TtL_03.png" width="100%" margin-bottom="10px"/><br/
+      <img src="https://raw.githubusercontent.com/Aimarr03/Aimarr03/main/Game%20Screenshot/Tug%20To%20Lift/TtL_03.jpg" width="100%" margin-bottom="10px"/><br/
       <strong>Tug To Lift</strong><br/>
       <a href="https://play.google.com/store/apps/details?id=com.NightliteStudio.TugToLift&hl=id" target="_blank">
-        <img alt="Play Store" src="https://img.shields.io/badge/Play%20Store-Download-green?style=for-the-badge&logo=google-play&logoColor=white" />
+        <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
       </a><br>
       A button mashing game to move lift and transport people in medieval era
     </td>
